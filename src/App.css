@@ -1,0 +1,65 @@
+.App{
+  background-color:white;
+  min-height: 100vh;
+  color: black;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.form-control{
+  border-radius: 27px;
+}
+
+
+
+.btn {
+  background-color: #004f97; 
+  border: none;
+  color: white;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 27px;
+}
+
+
+.button{
+  margin-top: 33px;
+}
+
+
+.heading1{
+  font-family: 'Montserrat', sans-serif;
+  color: #f37024;
+}
+
+
+.heading3{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #f37024;
+}
+
+
+.BRImo{
+  font-family: 'Montserrat', sans-serif;
+  color: #004f97;
+}
